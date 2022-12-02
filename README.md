@@ -1,5 +1,5 @@
-# IFIM_Website-
-IFIM Website 
+# IFIM_Website-LandingPage
+
 
 # Demo : https://rolf-christ.github.io/IFIM_Website.github.io/
 
